@@ -1,0 +1,50 @@
+/* 
+   @author Maksymilian Ostrowski
+*/
+
+body
+{
+    background-color: #bc00fa;
+    background-image: url("https://www.transparenttextures.com/patterns/60-lines.png");
+    /* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
+}
+.div-menu
+{
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 200px;
+    text-align: center;
+}
+.button-menu
+{
+   font-family: 'Roboto', sans-serif;
+   border: 2px solid #000000;
+   border-radius: 5px 5px 5px 5px;
+   background-color: #bc00fa;
+   background-image: url("https://www.transparenttextures.com/patterns/60-lines.png");
+   /* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
+   color: #000000;
+   font-size: 30px;
+   padding: 10px;
+}
+.button-menu:hover
+{
+    color: #fff;
+    background-color: #000000;
+}
+.name
+{
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-color: #fafafa;
+    background-image: url("https://www.transparenttextures.com/patterns/asfalt-dark.png");
+    /* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
+    color: #000000;
+    text-align: center;
+    font-family: 'Itim', cursive;
+    font-size: 50px;
+}
